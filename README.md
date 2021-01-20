@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-## training in technology and information, postgraduate degree in project management in IT.
+## Training in Technology and Information, postgraduate degree in Project Management in IT.
 ### Systems developer at Esolution / Sofalta.Eu.
 
 ### 🌐 Networking
