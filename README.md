@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logoColor=fff&logo=typescript)
 ![PHP](https://img.shields.io/badge/-PHP-369?style=flat-square&logoColor=fff&logo=php)
 ![Laravel](https://img.shields.io/badge/-Laravel-ff2d20?style=flat-square&logoColor=fff&logo=laravel)
-![DotNet](https://img.shields.io/badge/dotnet%20version-net5.0,net6.0-blue)
+![DotNet](https://img.shields.io/badge/dotnet%20version-net3.5,net5.0,net6.0,net7.0-blue)
